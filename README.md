@@ -1,4 +1,4 @@
 # GRAPHQL-APOLLO-NODEJS-EXAMPLES
 
-npm install
+npm install,
 npm run dev
